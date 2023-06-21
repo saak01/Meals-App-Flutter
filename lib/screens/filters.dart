@@ -121,7 +121,7 @@ class _FilterScreenState extends State<FilterScreen> {
                 });
               },
               title: Text(
-                'Vegam',
+                'Vegan',
                 style: Theme.of(context).textTheme.titleLarge!.copyWith(
                       color: Theme.of(context).colorScheme.onBackground,
                     ),
