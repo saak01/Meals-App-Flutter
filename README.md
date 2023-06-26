@@ -2,9 +2,9 @@
 
 O "Meals App" é um aplicativo criado por mim em Flutter, projetado especificamente para fornecer uma variedade de receitas deliciosas. Com este aplicativo, você pode explorar diferentes receitas, favoritá-las e ter acesso fácil a elas sempre que precisar.
 
- <img align="center" alt="Meals App" height="500" width="300" src="https://i.imgur.com/ISoE8ZW.png">
- <img align="center" alt="Meals App" height="500" width="300" src="https://i.imgur.com/XMT4bjC.png">
- <img align="center" alt="Meals App" height="500" width="300" src="https://i.imgur.com/9MXUI5c.png">
+ <img align="center" alt="Meals App" height="650" width="300" src="https://i.imgur.com/ISoE8ZW.png">
+ <img align="center" alt="Meals App" height="650" width="300" src="https://i.imgur.com/XMT4bjC.png">
+ <img align="center" alt="Meals App" height="650" width="300" src="https://i.imgur.com/9MXUI5c.png">
  
 
 
